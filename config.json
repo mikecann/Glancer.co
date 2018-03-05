@@ -1,0 +1,14 @@
+{
+  "local":"./",
+  "remote":"/public_html/",
+  "host":"91.208.99.4",
+  "port":21,
+  "user":"mike@glancer.co",
+  "pass":"SDFrrd23425ASDAfkflsk",
+  "connections":"2",
+  "ignore":[
+    ".htaccess",
+    "psd",
+    "node_modules"
+  ]
+}

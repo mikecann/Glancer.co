@@ -1,0 +1,44 @@
+﻿body {
+    background-color: white;
+}
+
+.content {
+    margin-top: 100px;
+    margin-bottom: 40px;
+    min-height: 200px;
+}
+
+.content-wrapper {
+    max-width: 58em;
+    text-align: left;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+}
+
+h1 {
+    color: #377DED;
+    font-size: 2.2em;
+    text-align: left;
+    margin-top: 15px;
+    font-weight: 300;
+}
+
+h2 {
+    font-size: 1.4em;
+}
+
+ul {
+    list-style-type: circle;
+}
+
+.updates-list img {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    max-width: 100%;
+}
+
+.updates-list ul {
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
